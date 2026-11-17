@@ -7,6 +7,7 @@ import app.morphe.patcher.patch.patch
 val sessionEndPatch = patch(
     name = "Skip Session-End Screens",
     description = "Pass an empty session-end screen list to Duolingo.",
+    default = false,
 ) {
     execute {
         val callIndex = SessionEndFingerprint.instructionMatches.single().index
