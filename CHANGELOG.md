@@ -1,3 +1,9 @@
+## [1.0.0-dev.3](https://github.com/iloxmn/DuolingoPatch/compare/v1.0.0-dev.2...v1.0.0-dev.3) (2026-11-17)
+
+### 🐛 Bug Fixes
+
+* declare Duolingo 6.105 and name bundle ([4267c91](https://github.com/iloxmn/DuolingoPatch/commit/4267c91f2aa1c7d2ad21f5f2fe0b40fe34833d04))
+
 ## [1.0.0-dev.2](https://github.com/iloxmn/DuolingoPatch/compare/v1.0.0-dev.1...v1.0.0-dev.2) (2026-11-17)
 
 ### 🐛 Bug Fixes
