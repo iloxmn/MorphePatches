@@ -8,16 +8,16 @@ This repository contains patches for the Duolingo Android app.
 
 ### How to use these patches
 
-Click the button below, or manually add this repo url to Morphe Manager: https://github.com/iloxmn/DuolingoPatch
+Click the button below, or manually add this repo url to Morphe Manager: https://github.com/iloxmn/MorphePatches
 
-<a href="https://morphe.software/add-source?github=iloxmn/DuolingoPatch">
+<a href="https://morphe.software/add-source?github=iloxmn/MorphePatches">
   <img src=".github/assets/add-to-morphe.svg" alt="Add to Morphe" height="48">
 </a>
 
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.0.3](https://github.com/iloxmn/DuolingoPatch/releases/tag/v1.0.3)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;1 patches total
+> **[v1.0.3](https://github.com/iloxmn/MorphePatches/releases/tag/v1.0.3)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;1 patches total
 <details open>
 <summary>📦 Duolingo&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>

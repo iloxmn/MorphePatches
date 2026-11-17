@@ -8,10 +8,10 @@ patches {
     about {
         name = "Duolingo Patches"
         description = "Morphe patches for Duolingo"
-        source = "git@github.com:iloxmn/DuolingoPatch.git"
+        source = "git@github.com:iloxmn/MorphePatches.git"
         author = "iloxmn"
         contact = "https://github.com/iloxmn"
-        website = "https://github.com/iloxmn/DuolingoPatch"
+        website = "https://github.com/iloxmn/MorphePatches"
         license = "GPLv3"
     }
 }
