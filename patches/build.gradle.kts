@@ -1,16 +1,23 @@
+import org.gradle.jvm.tasks.Jar
+
 group = "app.template"
 
+val duolingoAppVersion = "6.105"
+
 patches {
-    // TODO: Update this section with your project details.
     about {
-        name = "UserXYZ Patches"
-        description = "Patches for apps I like"
-        source = "git@github.com:UserXYZ/morphe-patches.git"
+        name = "Duolingo Patches"
+        description = "Morphe patches for Duolingo"
+        source = "git@github.com:iloxmn/DuolingoPatch.git"
         author = "iloxmn"
-        contact = "na"
-        website = "na"
+        contact = "https://github.com/iloxmn"
+        website = "https://github.com/iloxmn/DuolingoPatch"
         license = "GPLv3"
     }
+}
+
+tasks.withType<Jar>().configureEach {
+    archiveBaseName.set("Duolingo-$duolingoAppVersion")
 }
 
 // Separate configuration so gson is available at runtime for the

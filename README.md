@@ -1,12 +1,10 @@
-# 👋🧩 Morphe Patches template
+# Duolingo Morphe Patches
 
-Template repository for Morphe Patches.
+Morphe patches for Duolingo.
 
 ## ❓ About
 
-Patches for apps I like.
-
-<!-- TODO: Update this about section with a brief introduction/summary about this repo and what it offers. -->
+This repository contains patches for the Duolingo Android app.
 
 ### How to use these patches
 
@@ -19,29 +17,17 @@ Click the button below, or manually add this repo url to Morphe Manager: https:/
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.0.0-dev.2](https://github.com/iloxmn/DuolingoPatch/releases/tag/v1.0.0-dev.2)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;2 patches total
-<details open>
-<summary>📦 XYZ app&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
-<br>
-
-**Package name:** `com.example.app`
-
-**🎯 Supported versions:**
-
-| 2.0.0 | 1.0.2 |
-| :---: | :---: |
-
-| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
-|----------|----------------|-----------|
-| [Example Patch](#example-patch) | Example patch to start with. |  |
-
-</details>
-
+> **[v1.0.0-dev.2](https://github.com/iloxmn/DuolingoPatch/releases/tag/v1.0.0-dev.2)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;1 patches total
 <details open>
 <summary>📦 Duolingo&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
 
 **Package name:** `com.duolingo`
+
+**🎯 Supported versions:**
+
+| 6.105 |
+| :---: |
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
@@ -54,7 +40,7 @@ Click the button below, or manually add this repo url to Morphe Manager: https:/
 ### 🛠️ Building locally
 
 - Run `./gradlew buildAndroid`
-- The built patches .mpp file is found in `patches/build/libs/patches-*.mpp`
+- The built patches .mpp file is named `Duolingo-6.105-<patch-version>.mpp` in `patches/build/libs/`
 - Patch the mpp file using [Morphe-Desktop](https://github.com/MorpheApp/morphe-desktop)
   like any other patch bundle.
 
@@ -62,4 +48,4 @@ See the [Morphe documentation](https://github.com/MorpheApp/morphe-documentation
 
 ## 📜 License
 
-UserXYZ Patches are licensed under the [GNU General Public License v3.0](LICENSE)
+Duolingo Patches are licensed under the [GNU General Public License v3.0](LICENSE)
