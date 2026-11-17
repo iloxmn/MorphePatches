@@ -1,3 +1,9 @@
+## [1.0.0-dev.2](https://github.com/iloxmn/DuolingoPatch/compare/v1.0.0-dev.1...v1.0.0-dev.2) (2026-11-17)
+
+### 🐛 Bug Fixes
+
+* Add Duolingo app and author metadata ([b3e8225](https://github.com/iloxmn/DuolingoPatch/commit/b3e82253a418d4dccd0c684ee88f14dd82381bf3))
+
 ## 1.0.0-dev.1 (2026-11-17)
 
 ### ✨ New Features
