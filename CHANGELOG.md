@@ -1,3 +1,7 @@
+## [1.0.3](https://github.com/iloxmn/DuolingoPatch/compare/v1.0.0-dev.3...v1.0.3) (2026-11-17)
+
+Stable Duolingo patch bundle for app version 6.105.
+
 ## [1.0.0-dev.3](https://github.com/iloxmn/DuolingoPatch/compare/v1.0.0-dev.2...v1.0.0-dev.3) (2026-11-17)
 
 ### 🐛 Bug Fixes
