@@ -39,6 +39,8 @@ Click the button below, or manually add this repo url to Morphe Manager: https:/
 
 ### 🛠️ Building locally
 
+Every push to `main` automatically builds and publishes a new versioned `.mpp` release.
+
 - Run `./gradlew buildAndroid`
 - The built patches .mpp file is named `Duolingo-6.105-<patch-version>.mpp` in `patches/build/libs/`
 - Patch the mpp file using [Morphe-Desktop](https://github.com/MorpheApp/morphe-desktop)
