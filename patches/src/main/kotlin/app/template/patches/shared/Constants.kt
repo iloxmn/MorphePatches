@@ -6,6 +6,17 @@ import app.morphe.patcher.patch.Compatibility
 import app.morphe.patcher.patch.SupportedAbi
 
 object Constants {
+    val COMPATIBILITY_DUOLINGO = Compatibility(
+        name = "Duolingo",
+        packageName = "com.duolingo",
+        targets = listOf(
+            AppTarget(
+                version = null,
+                isExperimental = true
+            )
+        )
+    )
+
     val COMPATIBILITY_EXAMPLE = Compatibility(
         name = "XYZ app", // App name as it appears in the Android launcher.
         packageName = "com.example.app",

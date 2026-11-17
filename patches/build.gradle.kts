@@ -6,7 +6,7 @@ patches {
         name = "UserXYZ Patches"
         description = "Patches for apps I like"
         source = "git@github.com:UserXYZ/morphe-patches.git"
-        author = "Awesome dev"
+        author = "iloxmn"
         contact = "na"
         website = "na"
         license = "GPLv3"
